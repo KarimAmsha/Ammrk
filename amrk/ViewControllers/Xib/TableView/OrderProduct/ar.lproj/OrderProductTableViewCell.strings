@@ -1,0 +1,29 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "JNM-qh-TKR"; */
+"JNM-qh-TKR.text" = "Label";
+
+/* Class = "UILabel"; text = "Count: "; ObjectID = "KlN-Im-Gjl"; */
+"KlN-Im-Gjl.text" = "الكمية: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "alP-lJ-La5"; */
+"alP-lJ-La5.text" = "Label";
+
+/* Class = "UILabel"; text = "Name: "; ObjectID = "chb-lv-GMA"; */
+"chb-lv-GMA.text" = "الاسم: ";
+
+/* Class = "UILabel"; text = "Price: "; ObjectID = "fHf-fU-5mu"; */
+"fHf-fU-5mu.text" = "السعر: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "h60-1y-cnj"; */
+"h60-1y-cnj.text" = "Label";
+
+/* Class = "UILabel"; text = "Additions:-"; ObjectID = "s8s-QX-QJe"; */
+"s8s-QX-QJe.text" = "الإضافات:-";
+
+/* Class = "UILabel"; text = "Removes:-"; ObjectID = "MTR-Ns-nQO"; */
+"MTR-Ns-nQO.text" = "الإزالة:-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CEz-Q4-jbz"; */
+"CEz-Q4-jbz.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pXW-Yd-F7n"; */
+"pXW-Yd-F7n.text" = "";

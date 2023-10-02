@@ -1,0 +1,587 @@
+/* 
+  Localizable.strings
+  amrk
+
+  Created by yousef on 02/09/2021.
+  Copyright © 2021 yousef. All rights reserved.
+*/
+"SAR" = "ر.س";
+
+"Name field is required" = "حقل الاسم مطلوب";
+
+"Email field is required" = "حقل البريد الإلكتروني مطلوب";
+
+"The phone number field is required" = "حقل رقم الهاتف مطلوب";
+
+"Password field is required" = "حقل كلمة المرور مطلوب";
+
+"Email is incorrect" = "البريد الإلكتروني غير صحيح";
+
+"The phone number must be 9 digits" = "رقم الهاتف يجب أن يكون 9 أرقام";
+
+"Enter your Email & Password." = "أدخل البريد الإلكتروني وكلمة المرور";
+
+"switch to phone number" = "تغيير الى رقم الهاتف";
+
+"Enter your Mobile & Password." = "أدخل رقم الهاتف وكلمة المرور.";
+
+"switch to email" = "تغيير الى البريد الإلكتروني";
+
+"City" = "المدينة";
+
+"Restaurant Type" = "نوع المطعم";
+
+"Select the period" = "حدد الفترة";
+
+"Discover places\nnear you" = "إكتشف الأماكن\nالقريبة منك";
+
+"Choose A Tasty\nDish" = "إختر\nطعامك اللذيذ";
+
+"Pick Up Your\nDelivery" = "اختر التوصيل\nالمناسب لك";
+
+"We make it simple to find the food\nyou crave. Enter your address and let\nus do the rest." = "نجعل من السهل العثور على الطعام\nأنت تتوق. أدخل عنوانك ودعنا\nنحن نقوم بالباقي.";
+
+"When you order Eat Street, we'll hook\nyou up with exclusive coupons,\nspecials and rewards." = "عندما تطلب طعام سنقدم\nلك كوبونات حصرية\nالعروض الخاصة والمكافآت.";
+
+"We make food ordering fast, simple\nand free - no matter if you order\nonline or cash." = "نحن نجعل طلب الطعام سريعًا وبسيطً\nومجاني - بغض النظر عما إذا طلبت\nعبر الإنترنت أو نقدًا.";
+
+"Select branch" = "تحديد الفرع";
+
+"Booking Time" = "وقت الحجز";
+
+"Open" = "مفتوح";
+
+"Close" = "مغلق";
+
+" Close " = "إغلاق";
+
+"Wrong card number" = "رقم البطاقة خاطئ";
+
+"Enter Name" = "أدخل الاسم";
+
+"Please enter valid card number" = "من فضلك أدخل رقم بطاقة صحيح";
+
+"MM" = "الشهر";
+
+"Done" = "تم";
+
+"CARD" = "البطاقة";
+
+"CVC" = "رمز التحقق";
+
+"Please Select Expiry Month" = "من فضلك إختر شهر الإنتهاء";
+
+"YYYY" = "السنة";
+
+"Please Select Expiry Year" = "من فضلك إختر سنة الإنتهاء";
+
+"Please enter valid Cvv" = "من فضلك تحقق من رمز التحقق";
+
+"KM" = "كم";
+
+"Please enter the message" = "من فضلك أدخل الرسالة";
+
+"Enter Message.." = "أدخل الرسالة";
+
+"Something happened! Please try again later" = "حدث خطأ ما! يرجى المحاولة فيما بعد";
+
+"Help" = "مساعدة";
+
+"Contact Us" = "تواصل معنا";
+
+"Booking a table" = "حجز طاولة";
+
+"Delivery" = "توصيل";
+
+"Sweets" = "الحلا";
+
+"Booking" = "حجز";
+
+"Watch and booking" = "مشاهدة وحجز";
+
+"Help?" = "مساعدة؟";
+
+"Orders" = "الطلبات";
+
+"Edit Profile" = "تعديل الملف الشخصي";
+
+"Edit Password" = "تغيير كلمة المرور";
+
+"Change Language" = "تغيير اللغة";
+
+"Terms of Service" = "شروط الخدمة";
+
+"Privacy Policy" = "سياسة الخصوصية";
+
+"Rate This App" = "تقييم التطبيق";
+
+"About App" = "حول التطبيق";
+
+"Sign in as service provider" = "تسجيل الدخول كمزود خدمة";
+"Sign in as user" = "تسجيل الدخول كمستخدم";
+"Sign in service provider" = "تسجيل دخول مزود الخدمة";
+"" = "";
+
+"Contact Us" = "تواصل معنا";
+
+"Charge the wallet" = "شحن المحفظة";
+
+"Logout" = "تسجيل الخروج";
+
+"Change Language" = "تغيير اللغة";
+
+"Are you sure to change the language?" = "هل أنت متأكد من تغيير اللغة؟";
+
+"Change Language" = "تغيير اللغة";
+
+"Cancel" = "إغلاق";
+
+"Ok" = "تم";
+
+"Error" = "خطأ";
+
+"Restaurants" = "مطاعم";
+
+"Halas" = "حلا";
+
+"Training Rooms" = "قاعات تدريبية";
+
+"Wedding Rooms" = "قاعات أفراح";
+
+"We couldn't locate you" = "لم نتمكن من تحديد موقعك";
+
+"AM" = "في الصباح";
+
+"BM" = "في المساء";
+
+"Hall Type" = "نوع الحلا";
+
+"visitor" = "زائر";
+
+"Are you sure logout?" = "هل أنت متأكد من تسجيل الخروج؟";
+
+"Select time" = "تحديد الوقت";
+
+"Do you have a special recommendation (subject to availability)?" = "هل لديك توصية خاصة (حسب المتاح)؟";
+
+"The branch field is required" = "حقل الفرع مطلوب";
+
+"The preson name field is required" = "حقل اسم الشخص مطلوب";
+
+"The phone number field is required" = "حقل رقم الشخص مطلوب";
+
+"The time field is required" = "حقل الوقت مطلوب";
+
+"Terms and conditions must be approved" = "يجب الموافقة على الشروط والأحكام";
+
+"Privacy Policy must be approved" = "يجب الموافقة على سياسة الخصوصية";
+
+"The phone number must be 12 digits" = "يجب أن يكون رقم الهاتف ١٢ رقم";
+
+"not logged in" = "لم يتم تسجيل الدخول";
+
+"There are no notifications" = "لا يوجد هناك إشعارات";
+
+"Search for any restaurant, hala or hall" = "إبحث عن أي مطعم، حلا أو قاعة";
+
+"No result" = "لا يوجد نتائج";
+
+"Welcome" = "أهلاً بك";
+
+"welcome" = "أهلاً بك";
+
+"Reserve a table" = "احجز طاولة";
+
+"Order from the restaurant" = "أطلب من المطعم";
+
+"Choose your hall" = "إختر حلاك";
+
+"Book a hall" = "إحجز قاعة أفراح";
+
+"Book a room" = "إحجز قاعة تدريبية";
+
+"Special orders" = "الطلبات الخاصة";
+
+"Please enter the title" = "من فضلك أدخل العنوان";
+
+"The time is required" = "الوقت مطلوب";
+
+"Person name field is required" = "حقل اسم المستخدم مطلوب";
+
+"Phone number field is required" = "حقل رقم الهاتف مطلوب";
+
+"Email field is required" = "حقل البريد الإلكتروني مطلوب";
+
+"Person count field is required" = "حقل عدد الأشخاص مطلوب";
+
+"Booking date field is required" = "حقل تاريخ الحجز مطلوب";
+
+"Coffee break field is required" = "حقل الكافي بريك مطلوب";
+
+"Time section field is required" = "حقل فترة الحجز مطلوب";
+
+"Company name field is required" = "حقل اسم الجهة مطلوب";
+
+"Opened" = "مفتوح";
+
+"Closed" = "مغلق";
+
+"Person" = "شخص";
+
+"Delete Order" = "حذف الطلب";
+
+"Are you sure delete order?" = "هل أنت متأكد من حذف الطلب";
+
+"Delete" = "حذف";
+
+"Close" = "إغلاق";
+
+"My Addresses" = "العناوين";
+
+"Add New Address" = "إضافة عنوان جديد";
+
+"Add Address" = "إضافة العنوان";
+
+"Edit Address" = "تعديل العنوان";
+
+"Edit Address" = "تعديل العنوان";
+
+"Title field is required" = "حقل العنوان مطلوب";
+
+"Address field is required" = "حقل عنوان المكان مطلوب";
+
+"The address has been modified successfully" = "تم تعديل العنوان بنجاح";
+
+"The address has been added successfully" = "تم إضافة العنوان بنجاح";
+
+"Delete Address" = "حذف العنوان";
+
+"Are you sure delete address?" = "هل أنت متأكد من حذف العنوان؟";
+
+"Date and Time" = "التاريخ والوقت";
+
+"The phone number field is required" = "حقل رقم الهاتف مطلوب";
+
+"The date and time field is required" = "حقل التاريخ والوقت مطلوب";
+
+"The delivey field is required" = "حقل الديلفري مطلوب";
+
+"The branch field is required" = "حقل الفرع مطلوب";
+
+"The delivery address field is required" = "حقل عنوان التوصيل مطلوب";
+
+"The must be at least one order" = "يجب أن يوجد على الأقل طلب واحد";
+
+"Profile modified successfully" = "تم تعديل الملف الشخصي بنجاح";
+
+"Current password field is required" = "حقل كلمة المرور الحالية مطلوبة";
+
+"New password field is required" = "حقل كلمة المرور الجديدة مطلوب";
+
+"Confirm password field is required" = "حقل تأكيد كلمة المرور مطلوب";
+
+"Passwords do not match" = "كلمتا المرور غير متطابقتا";
+
+"Password has been updated" = "تم تحديث كلمة المرور";
+
+"The request has been sent" = "تم إرسال الطلب";
+
+"Order accepted" = "تم قبول الطلب";
+
+"The request is being processed" = "الطلب قيد المعالجة";
+
+"Order ready" = "الطلب جاهز";
+
+"The request is rejected" = "تم رفض الطلب";
+
+"Order Canceled" = "تم إلغاء الطلب";
+
+"Rate Order" = "تقييم الطلب";
+
+"Cancel Order" = "إلغاء الطلب";
+
+"Are you sure cancel order?" = "هل أنت متأكد من إلغاء الطلب";
+
+"Order canceled successfully" = "تم إلغاء الطلب بنجاح";
+
+"no delivery" = "لا يوجد توصيل";
+
+"Price calculation" = "حساب السعر";
+
+"There are no orders" = "ليس لديك طلبات";
+
+"Login" = "تسجيل الدخول";
+
+"Join as a service provider" = "الإنضمام كمزود خدمة";
+
+"You are not logged in" = "أنت غير مسجل الدخول";
+
+"There are no addresses" = "ليس لديك أي عناوين";
+
+"Please select the location on the map" = "يرجى تحديد المكان على الخريطة";
+
+"Service type" = "نوع الخدمة";
+
+"Restaurants" = "مطعم";
+
+"Training Hall" = "قاعة تدريبية";
+
+"Wedding hall" = "قاعة أفراح";
+
+"Hala Shop" = "محل حلا";
+
+"menu is empty" = "القائمة فارغة";
+
+"photo added" = "تم إضافة صورة";
+
+"Service type field is required" = "حقل نوع الخدمة";
+
+"Commercial register field is required" = "حقل السجل التجاري مطلوب";
+
+"IBAN code field is required" = "حقل الإيبان كود مطلوب";
+
+"Order Status" = "حالة الطلب";
+
+"new orders" = "طلبات جديدة";
+
+"accepted orders" = "الطلبات المقبولة";
+
+"is process" = "قيد التنفيذ";
+
+"order ready" = "الطلب جاهز";
+
+"Current orders" = "الطلبات الحالية";
+
+"History" = "الطلبات السابقة";
+
+"Payment Method" = "طريقة الدفع";
+
+"Visa" = "فيزا";
+
+"Apple Pay" = "ابل باي";
+
+"VIA" = "من خلال";
+
+"Ammrk" = "امرك";
+
+/* The name of the app to display in a navigation bar along with a placeholder for the SDK version number */
+"App.NameAndVersion" = "";
+
+/* Back */
+"Back" = "";
+
+/* Prompt to enter text for autocomplete demo */
+"Demo.Content.Autocomplete.EnterTextPrompt" = "";
+
+/* Format string for 'autocomplete failed with error' message */
+"Demo.Content.Autocomplete.FailedErrorMessage" = "";
+
+/* Button title for 'show autocomplete widget' */
+"Demo.Content.Autocomplete.ShowWidgetButton" = "";
+
+/* Button title for the 'BlueColors' styled autocomplete widget. */
+"Demo.Content.Autocomplete.Styling.Colors.BlueColors" = "";
+
+/* Button title for the 'Hot Dog Stand' styled autocomplete widget. */
+"Demo.Content.Autocomplete.Styling.Colors.HotDogStand" = "";
+
+/* Button title for the 'WhiteOnBlack' styled autocomplete widget. */
+"Demo.Content.Autocomplete.Styling.Colors.WhiteOnBlack" = "";
+
+/* Button title for the 'Yellow and Brown' styled autocomplete widget. */
+"Demo.Content.Autocomplete.Styling.Colors.YellowAndBrown" = "";
+
+/* String for 'autocomplete canceled message' */
+"Demo.Content.Autocomplete.WasCanceledMessage" = "";
+
+/* Title of the autocomplete demo section */
+"Demo.Section.Title.Autocomplete" = "";
+
+/* Title of the findPlaceLikelihood demo section */
+"Demo.Section.Title.FindPlaceLikelihood" = "";
+
+/* Title of the full-screen autocomplete demo for display in a list or nav header */
+"Demo.Title.Autocomplete.FullScreen" = "";
+
+/* Title of the pushed autocomplete demo for display in a list or nav header */
+"Demo.Title.Autocomplete.Push" = "";
+
+/* Title of the Styling autocomplete demo for display in a list or nav header */
+"Demo.Title.Autocomplete.Styling" = "";
+
+/* Title of the UISearchController autocomplete demo for display in a list or nav header */
+"Demo.Title.Autocomplete.UISearchController" = "";
+
+/* Title of the UITextField autocomplete demo for display in a list or nav header */
+"Demo.Title.Autocomplete.UITextField" = "";
+
+/* Button title for 'Photos' */
+"Demo.Title.Photos" = "";
+
+/* No comment provided by engineer. */
+"Loading" = "";
+
+/* Maps SDK Demos */
+"Maps SDK Demos" = "";
+
+/* No comment provided by engineer. */
+"MyText" = "";
+
+/* Samples */
+"Samples" = "";
+
+/* No comment provided by engineer. */
+"X" = "";
+
+"You do not have permission to use this app" = "ليس لديك صلاحية لإستخدام هذا التطبيق";
+
+"Pleace Enter The Reservation Date" = "من فضلك أدخل تاريخ الحجز";
+
+"Please choose a valid date" = "من فضلك إختر تاريخ صحيح";
+
+"Please choose the time" = "من فضلك إختر الوقت";
+
+"Payment Methods" = "طرق الدفع";
+
+"Share the app" = "مشاركة التطبيق";
+
+"Person count" = "عدد الأشخاص";
+
+"Favorite" = "المفضلة";
+
+"Remove Form Favourites" = "إزالة من المفضلة";
+
+"Are you sure remove from favourites?" = "هل أنت متأكد من الإزالة من المفضلة؟";
+
+"Remove" = "إزالة";
+
+"My City" = "حسب مدينتي الحالية";
+"Nearest" = "ترتيب حسب الأقرب";
+
+"From Branch" = "استلام من الفرع";
+"Delivery" = "توصيل";
+
+"All" = "الكل";
+
+"Your order has been successfully received" = "تم إستلام طلبك بنجاح";
+
+"+ add new address" = "+ إضافة عنوان جديد";
+
+"The phone number must start with 05" = "رقم الهاتف يجب أن يبدأ ب 05";
+
+"am" = "صباحاً";
+
+"pm" = "مساءاً";
+
+"cash" = "كاش";
+
+"visa" = "فيزا";
+
+"Recepipt from the branch" = "إستلام من الفرع";
+
+"yes" = "نعم";
+
+"no" = "لا";
+
+" SAR" = " ريال";
+
+"The discount field is requied" = "عذراً، حقل الخصم مطلوب";
+
+"Sorry, the coupon is not valid" = "عذراً الكوبون غير صالح";
+
+"You have a discount with percent" = "لديك خصم بنسبة:";
+
+"You have a discount" = "لديك خصم قيمته:";
+
+"Recieve in 25 minute" = "الاستلام خلال 25 دقيقة";
+"Delivery in 60 minute" = "توصيل خلال ٦٠ دقيقة";
+
+"Your order has been successfully received, and the fees will be discount from the bill" = "تم استلام طلبك بنجاح، ورسوم تأكيد الحجز سيتم خصمها من الفاتورة";
+
+"Sorry, The restaurant is closed now" = "عذراً المطعم مغلق حالياً";
+
+"OTP has been sent to " = "أدخل رمز التحقق المرسل الى ";
+
+
+"Men hall:" = "قاعة الرجال:";
+"Women hall:" = "قاعة النساء:";
+"womenMen hall:" = "قاعة الرجال والنساء:";
+"person" = "شخص";
+
+"Price" = "السعر";
+"Person Count" = "عدد الأشخاص";
+"Type" = "النوع";
+
+
+"Men & Women" = "الرجال والنساء";
+"Women" = "النساء";
+"Men" = "الرجال";
+
+
+"Not Verified" = "غير مفعّل";
+
+"Email" = "البريد الالكتروني";
+
+"Not Paid" = "لم يتم الدفع";
+
+"Pay Now" = "ادفع الان";
+
+"Resend code" = "إعادة إرسال الرمز";
+"Do you want to resend code to email?" = "هل تريد إعادة ارسال الرمز الى البريد الالكتروني ؟";
+"Yes" = "نعم";
+
+"We hope to pay in order to confirm your order" = "عذراً نأمل السداد لإتمام الطلب يخصم المبلغ من الفاتورة";
+
+
+"We hope to pay in order to confirm your order, and the fees will be discount from the bill" = "عذراً نأمل السداد لتأكيد الحجز  يخصم المبلغ من الفاتورة";
+
+
+"Code" = "الرمز";
+"Code field is required" = "حقل الرمز مطلوب";
+
+"Delete Account" = "حذف الحساب";
+
+"Are you sure delete account?" = "هل أنت متأكد من حذف الحساب؟";
+
+"Training room location" = "موقع القاعة التدريبية";
+
+"Wedding hall location" = "موقع قاعة الأفراح";
+
+"Restaurant location" = "موقع المطعم";
+
+"Hall location" = "موقع القاعة";
+
+"Customer location" = "موقع العميل";
+
+"The order is being delivered" = "جاري توصيل الطلب";
+
+"The order has been delivered" = "تم توصيل الطلب";
+
+"Branch" = "الفرع";
+
+"Completed order" = "الطلب مكتمل";
+
+"order" = "طلب من مطعم";
+"reserve" = "حجز طاولة";
+"hala" = "طلب حلا";
+"room" = "قاعة تدريبية";
+"wedding" = "قاعة مناسبات";
+"for someone" = "للشخص";
+
+"Wedding capacity" = "سعة القاعة";
+
+"Hall capacity" = "سعة القاعة";
+
+"Select Hall" = "إختر القاعة";
+
+"Select Wedding" = "إختر القاعة";
+
+"Price person" = "سعر الشخص";
+
+"Address" = "العنوان";
+
+"Unable to make Apple Pay transaction" = "غير قادر على إجراء معاملة أبل باي";
+
+"Unable to present Apple Pay authorization" = "غير قادر على تقديم إذن أبل باي";
+
+"Order price" = "سعر الطلب";

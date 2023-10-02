@@ -1,0 +1,126 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.7.1)
+  - Alamofire (5.0.5)
+  - BEMCheckBox (1.4.1)
+  - Cosmos (23.0.0)
+  - DZNEmptyDataSet (1.8.1)
+  - FSCalendar (2.8.2)
+  - FSPagerView (0.8.2)
+  - GoogleMaps (3.9.0):
+    - GoogleMaps/Maps (= 3.9.0)
+  - GoogleMaps/Base (3.9.0)
+  - GoogleMaps/Maps (3.9.0):
+    - GoogleMaps/Base
+  - GooglePlaces (7.4.0)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.3.0)
+  - MOLH (1.4.3)
+  - MRCountryPicker (0.0.8)
+  - PryntTrimmerView (4.0.2)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SteviaLayout (4.7.3)
+  - SVProgressHUD (2.2.5)
+  - SwifterSwift (5.0.0):
+    - SwifterSwift/AppKit (= 5.0.0)
+    - SwifterSwift/CoreGraphics (= 5.0.0)
+    - SwifterSwift/CoreLocation (= 5.0.0)
+    - SwifterSwift/Dispatch (= 5.0.0)
+    - SwifterSwift/Foundation (= 5.0.0)
+    - SwifterSwift/MapKit (= 5.0.0)
+    - SwifterSwift/SpriteKit (= 5.0.0)
+    - SwifterSwift/SwiftStdlib (= 5.0.0)
+    - SwifterSwift/UIKit (= 5.0.0)
+  - SwifterSwift/AppKit (5.0.0)
+  - SwifterSwift/CoreGraphics (5.0.0)
+  - SwifterSwift/CoreLocation (5.0.0)
+  - SwifterSwift/Dispatch (5.0.0)
+  - SwifterSwift/Foundation (5.0.0)
+  - SwifterSwift/MapKit (5.0.0)
+  - SwifterSwift/SpriteKit (5.0.0)
+  - SwifterSwift/SwiftStdlib (5.0.0)
+  - SwifterSwift/UIKit (5.0.0)
+  - SwiftLocation (4.1.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+  - TTGSnackbar (1.10.5)
+  - YPImagePicker (4.2.0):
+    - PryntTrimmerView (~> 4.0.0)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire (~> 5.0.0-rc.2)
+  - BEMCheckBox (= 1.4.1)
+  - Cosmos (~> 23.0)
+  - DZNEmptyDataSet
+  - FSCalendar (= 2.8.2)
+  - FSPagerView (= 0.8.2)
+  - GoogleMaps (~> 3.9.0)
+  - GooglePlaces
+  - iOSDropDown (= 0.3.4)
+  - IQKeyboardManagerSwift (= 6.3.0)
+  - MOLH (= 1.4.3)
+  - MRCountryPicker (~> 0.0.8)
+  - SDWebImage (~> 4.0)
+  - SVProgressHUD (= 2.2.5)
+  - SwifterSwift (= 5.0.0)
+  - SwiftLocation (= 4.1.0)
+  - SwiftMessages
+  - TTGSnackbar (= 1.10.5)
+  - YPImagePicker (= 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - BEMCheckBox
+    - Cosmos
+    - DZNEmptyDataSet
+    - FSCalendar
+    - FSPagerView
+    - GoogleMaps
+    - GooglePlaces
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - MOLH
+    - MRCountryPicker
+    - PryntTrimmerView
+    - SDWebImage
+    - SteviaLayout
+    - SVProgressHUD
+    - SwifterSwift
+    - SwiftLocation
+    - SwiftMessages
+    - TTGSnackbar
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 36da254b97a09ff89679ecb8b8510bd3e5bdc773
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  FSPagerView: 816a18842306973cc7cc6df8a5332272f7815c30
+  GoogleMaps: 4b5346bddfe6911bb89155d43c903020170523ac
+  GooglePlaces: 544e908d94860bf6f8fc1865b80d2c7eb6b5f937
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  MRCountryPicker: 1aeea66de25cdef79dce3b91d8ad9db643c1cc01
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwifterSwift: 96f90594b370802f01647c2b1229c74a84ffafee
+  SwiftLocation: e89dd4dbebbce1755836154103546f4ab3d92aae
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  TTGSnackbar: 2bd245d2bbf83639483410273fd936af0b7ba2a9
+  YPImagePicker: accf310f9526641a84372c0ecf943547d9b1e52c
+
+PODFILE CHECKSUM: 675a7d4a025817c00e805c79acdee14f6b8fcc83
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,35 @@
+/* Class = "UILabel"; text = "Order type:"; ObjectID = "2Lv-OM-YW2"; */
+"2Lv-OM-YW2.text" = "نوع الطلب:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FXi-Zl-Dr1"; */
+"FXi-Zl-Dr1.text" = "Label";
+
+/* Class = "UILabel"; text = "Order date:"; ObjectID = "TK4-zi-XEB"; */
+"TK4-zi-XEB.text" = "تاريخ الطلب:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wrx-dd-uc8"; */
+"Wrx-dd-uc8.text" = "Label";
+
+/* Class = "UILabel"; text = "Customer name:"; ObjectID = "f8k-WN-eBv"; */
+"f8k-WN-eBv.text" = "اسم العميل:";
+
+/* Class = "UILabel"; text = "Order ID:"; ObjectID = "iya-YR-HkH"; */
+"iya-YR-HkH.text" = "رقم الطلب:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kGR-2I-ile"; */
+"kGR-2I-ile.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "udx-SB-OFK"; */
+"udx-SB-OFK.text" = "Label";
+
+/* Class = "UILabel"; text = "Order status:"; ObjectID = "1Ik-oW-lee"; */
+"1Ik-oW-lee.text" = "حالة الطلب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2YN-xo-uHv"; */
+"2YN-xo-uHv.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "SA1-Iy-OtC"; */
+"SA1-Iy-OtC.normalTitle" = "قبول";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "haj-yQ-Lwj"; */
+"haj-yQ-Lwj.normalTitle" = "رفض";

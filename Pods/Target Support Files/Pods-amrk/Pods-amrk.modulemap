@@ -1,0 +1,6 @@
+framework module Pods_amrk {
+  umbrella header "Pods-amrk-umbrella.h"
+
+  export *
+  module * { export * }
+}

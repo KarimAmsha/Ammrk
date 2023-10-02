@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>349240184895-lgik1r546t3hl2g0h8gf35b53lh04bkk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.349240184895-lgik1r546t3hl2g0h8gf35b53lh04bkk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5rBiP3uB74oF3W0H9rxCREU81IhqmoQQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>349240184895</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mohawad.ammrkClient</string>
+	<key>PROJECT_ID</key>
+	<string>amrk-d82e2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amrk-d82e2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:349240184895:ios:9616e5113af33abbbae88a</string>
+</dict>
+</plist>
